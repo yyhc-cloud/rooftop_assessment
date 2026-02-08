@@ -1,4 +1,4 @@
-# Rooftop Assessment - Question 1: Hello World
+# Rooftop Assessment - Question 2: is_even
 
 ## Overview
 This folder contains the solution for **Question 2** of the Rooftop Practical Assessment.  
