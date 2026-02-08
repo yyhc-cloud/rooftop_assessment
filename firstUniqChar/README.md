@@ -26,4 +26,4 @@ Alternative Methods:
 
 Could use nested loops to compare every character.
 
-Chose dictionary for efficiency.
+Choose dictionary for efficiency.
